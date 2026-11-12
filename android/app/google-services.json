@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466328856492",
+    "project_id": "vyaparconnect-jashu-2026",
+    "storage_bucket": "vyaparconnect-jashu-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466328856492:android:57aed97d81f481acb53c09",
+        "android_client_info": {
+          "package_name": "com.example.b2b_marketaplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFZhCjH8KSrD_PXYsqVGJiurBGIETjZEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
